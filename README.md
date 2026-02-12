@@ -37,7 +37,7 @@ Fitur:
 Masuk ke folder frontend:
 
 ```bash
-cd Flutter-Login
+cd login_flutter
 ```
 
 ## 1️⃣ Install Dependency
